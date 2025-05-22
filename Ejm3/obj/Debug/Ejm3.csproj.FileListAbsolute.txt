@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\s9_frios\Ejm3\bin\Debug\Ejm3.exe.config
+C:\Users\UPN\Desktop\s9_frios\Ejm3\bin\Debug\Ejm3.exe
+C:\Users\UPN\Desktop\s9_frios\Ejm3\bin\Debug\Ejm3.pdb
+C:\Users\UPN\Desktop\s9_frios\Ejm3\obj\Debug\Ejm3.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\s9_frios\Ejm3\obj\Debug\Ejm3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\s9_frios\Ejm3\obj\Debug\Ejm3.exe
+C:\Users\UPN\Desktop\s9_frios\Ejm3\obj\Debug\Ejm3.pdb

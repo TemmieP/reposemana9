@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\s9_frios\Ejm2\obj\Debug\Ejm2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\s9_frios\Ejm2\obj\Debug\Ejm2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\s9_frios\Ejm2\bin\Debug\Ejm2.exe.config
+C:\Users\UPN\Desktop\s9_frios\Ejm2\bin\Debug\Ejm2.exe
+C:\Users\UPN\Desktop\s9_frios\Ejm2\bin\Debug\Ejm2.pdb
+C:\Users\UPN\Desktop\s9_frios\Ejm2\obj\Debug\Ejm2.exe
+C:\Users\UPN\Desktop\s9_frios\Ejm2\obj\Debug\Ejm2.pdb
