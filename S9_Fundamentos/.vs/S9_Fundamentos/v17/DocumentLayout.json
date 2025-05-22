@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\s9_frios\\S9_Fundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E63A252-73FC-4FF9-A750-0ECA84E22F7B}|..\\Ejm3\\Ejm3.csproj|c:\\users\\upn\\desktop\\s9_frios\\ejm3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B24DCCA-D937-45E5-BC56-05E11BB55371}|..\\casocomputadora\\casocomputadora.csproj|c:\\users\\upn\\desktop\\s9_frios\\casocomputadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B057D281-6382-4674-B704-3426AB08A4CA}|..\\Ejm2\\Ejm2.csproj|c:\\users\\upn\\desktop\\s9_frios\\ejm2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E63A252-73FC-4FF9-A750-0ECA84E22F7B}|..\\Ejm3\\Ejm3.csproj|c:\\users\\upn\\desktop\\s9_frios\\ejm3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96B75547-43AC-4E6A-B5DA-B885904D0785}|S9_Fundamentos.csproj|C:\\Users\\UPN\\Desktop\\s9_frios\\S9_Fundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,26 +34,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s9_frios\\Ejm3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejm3\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\s9_frios\\Ejm3\\Program.cs",
-              "RelativeToolTip": "..\\Ejm3\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s9_frios\\casocomputadora\\Program.cs",
+              "RelativeDocumentMoniker": "..\\casocomputadora\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\s9_frios\\casocomputadora\\Program.cs",
+              "RelativeToolTip": "..\\casocomputadora\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:47:53.647Z",
+              "WhenOpened": "2025-05-22T14:31:39.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s9_frios\\Ejm2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejm2\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\s9_frios\\Ejm2\\Program.cs",
-              "RelativeToolTip": "..\\Ejm2\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s9_frios\\Ejm3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejm3\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\s9_frios\\Ejm3\\Program.cs",
+              "RelativeToolTip": "..\\Ejm3\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:12:16.884Z"
+              "WhenOpened": "2025-05-22T13:47:53.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

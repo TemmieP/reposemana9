@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\s9_frios\casocomputadora\bin\Debug\casocomputadora.exe.config
+C:\Users\UPN\Desktop\s9_frios\casocomputadora\bin\Debug\casocomputadora.exe
+C:\Users\UPN\Desktop\s9_frios\casocomputadora\bin\Debug\casocomputadora.pdb
+C:\Users\UPN\Desktop\s9_frios\casocomputadora\obj\Debug\casocomputadora.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\s9_frios\casocomputadora\obj\Debug\casocomputadora.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\s9_frios\casocomputadora\obj\Debug\casocomputadora.exe
+C:\Users\UPN\Desktop\s9_frios\casocomputadora\obj\Debug\casocomputadora.pdb
