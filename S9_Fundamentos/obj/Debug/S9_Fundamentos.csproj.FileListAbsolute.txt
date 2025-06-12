@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\practicaS12FRios\reposemana9\S9_Fundamentos\bin\Debug\S9_Fundamentos.exe.config
+C:\Users\UPN\Desktop\practicaS12FRios\reposemana9\S9_Fundamentos\bin\Debug\S9_Fundamentos.exe
+C:\Users\UPN\Desktop\practicaS12FRios\reposemana9\S9_Fundamentos\bin\Debug\S9_Fundamentos.pdb
+C:\Users\UPN\Desktop\practicaS12FRios\reposemana9\S9_Fundamentos\obj\Debug\S9_Fundamentos.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\practicaS12FRios\reposemana9\S9_Fundamentos\obj\Debug\S9_Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\practicaS12FRios\reposemana9\S9_Fundamentos\obj\Debug\S9_Fundamentos.exe
+C:\Users\UPN\Desktop\practicaS12FRios\reposemana9\S9_Fundamentos\obj\Debug\S9_Fundamentos.pdb

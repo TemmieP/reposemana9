@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\practicaS12FRios\reposemana9\S12_Teoria\bin\Debug\S12_Teoria.exe.config
+C:\Users\UPN\Desktop\practicaS12FRios\reposemana9\S12_Teoria\bin\Debug\S12_Teoria.exe
+C:\Users\UPN\Desktop\practicaS12FRios\reposemana9\S12_Teoria\bin\Debug\S12_Teoria.pdb
+C:\Users\UPN\Desktop\practicaS12FRios\reposemana9\S12_Teoria\obj\Debug\S12_Teoria.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\practicaS12FRios\reposemana9\S12_Teoria\obj\Debug\S12_Teoria.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\practicaS12FRios\reposemana9\S12_Teoria\obj\Debug\S12_Teoria.exe
+C:\Users\UPN\Desktop\practicaS12FRios\reposemana9\S12_Teoria\obj\Debug\S12_Teoria.pdb

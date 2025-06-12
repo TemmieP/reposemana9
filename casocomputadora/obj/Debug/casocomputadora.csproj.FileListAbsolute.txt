@@ -5,3 +5,10 @@ C:\Users\UPN\Desktop\s9_frios\casocomputadora\obj\Debug\casocomputadora.csproj.A
 C:\Users\UPN\Desktop\s9_frios\casocomputadora\obj\Debug\casocomputadora.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Desktop\s9_frios\casocomputadora\obj\Debug\casocomputadora.exe
 C:\Users\UPN\Desktop\s9_frios\casocomputadora\obj\Debug\casocomputadora.pdb
+C:\Users\UPN\Desktop\practicas11FRios\reposemana9\casocomputadora\bin\Debug\casocomputadora.exe.config
+C:\Users\UPN\Desktop\practicas11FRios\reposemana9\casocomputadora\bin\Debug\casocomputadora.exe
+C:\Users\UPN\Desktop\practicas11FRios\reposemana9\casocomputadora\bin\Debug\casocomputadora.pdb
+C:\Users\UPN\Desktop\practicas11FRios\reposemana9\casocomputadora\obj\Debug\casocomputadora.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\practicas11FRios\reposemana9\casocomputadora\obj\Debug\casocomputadora.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\practicas11FRios\reposemana9\casocomputadora\obj\Debug\casocomputadora.exe
+C:\Users\UPN\Desktop\practicas11FRios\reposemana9\casocomputadora\obj\Debug\casocomputadora.pdb

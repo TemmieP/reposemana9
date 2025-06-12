@@ -1,16 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\s9_frios\\S9_Fundamentos\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\practicaS12FRios\\reposemana9\\S9_Fundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B24DCCA-D937-45E5-BC56-05E11BB55371}|..\\casocomputadora\\casocomputadora.csproj|c:\\users\\upn\\desktop\\s9_frios\\casocomputadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E63A252-73FC-4FF9-A750-0ECA84E22F7B}|..\\Ejm3\\Ejm3.csproj|c:\\users\\upn\\desktop\\s9_frios\\ejm3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96B75547-43AC-4E6A-B5DA-B885904D0785}|S9_Fundamentos.csproj|C:\\Users\\UPN\\Desktop\\s9_frios\\S9_Fundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96B75547-43AC-4E6A-B5DA-B885904D0785}|S9_Fundamentos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1D8C750-796B-4E70-8B79-3B7EA586F64C}|..\\S12_Teoria\\S12_Teoria.csproj|c:\\users\\upn\\desktop\\practicas12frios\\reposemana9\\s12_teoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,39 +27,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s9_frios\\casocomputadora\\Program.cs",
-              "RelativeDocumentMoniker": "..\\casocomputadora\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\s9_frios\\casocomputadora\\Program.cs",
-              "RelativeToolTip": "..\\casocomputadora\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA+AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\practicaS12FRios\\reposemana9\\S12_Teoria\\Program.cs",
+              "RelativeDocumentMoniker": "..\\S12_Teoria\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\practicaS12FRios\\reposemana9\\S12_Teoria\\Program.cs",
+              "RelativeToolTip": "..\\S12_Teoria\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T14:31:39.636Z",
+              "WhenOpened": "2025-06-12T12:55:17.55Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s9_frios\\Ejm3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ejm3\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\s9_frios\\Ejm3\\Program.cs",
-              "RelativeToolTip": "..\\Ejm3\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:47:53.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\s9_frios\\S9_Fundamentos\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\s9_frios\\S9_Fundamentos\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:57:24.284Z"
             }
           ]
         }

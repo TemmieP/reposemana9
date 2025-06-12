@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejm3", "..\Ejm3\Ejm3.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "casocomputadora", "..\casocomputadora\casocomputadora.csproj", "{0B24DCCA-D937-45E5-BC56-05E11BB55371}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Semana12", "Semana12", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S12_Teoria", "..\S12_Teoria\S12_Teoria.csproj", "{A1D8C750-796B-4E70-8B79-3B7EA586F64C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,9 +37,16 @@ Global
 		{0B24DCCA-D937-45E5-BC56-05E11BB55371}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B24DCCA-D937-45E5-BC56-05E11BB55371}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B24DCCA-D937-45E5-BC56-05E11BB55371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D8C750-796B-4E70-8B79-3B7EA586F64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D8C750-796B-4E70-8B79-3B7EA586F64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D8C750-796B-4E70-8B79-3B7EA586F64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D8C750-796B-4E70-8B79-3B7EA586F64C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1D8C750-796B-4E70-8B79-3B7EA586F64C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C33AD547-44C7-49FA-AD10-B112F7F9926D}
